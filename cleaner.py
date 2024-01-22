@@ -16,3 +16,5 @@ if os.path.exists(downloads) and os.path.isdir(downloads):
 
 else:
     print("Downloads folder does not exist.")
+
+input("Press Enter to Exit!")
